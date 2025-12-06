@@ -1,2 +1,1 @@
-const New = "Hello World";
-console.log(New);
+const New = "Hello World"
